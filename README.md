@@ -40,7 +40,7 @@ sudo bash daloradius_rhel9_audit_fix.sh
 
 ---
 
-## 🇬🇧 Description (EN)
+## EN Description (EN)
 
 ### `install_daloradius_2025_V1_PHP83_RH9.sh`
 Automated **daloRADIUS** installer for **RHEL 9.6** with enhanced security:
