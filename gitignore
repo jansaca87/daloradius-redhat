@@ -1,0 +1,19 @@
+# temp / editor
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.pid
+
+# system
+.DS_Store
+Thumbs.db
+
+# artifacts
+*.out
+*.o
+
+# local backups
+*.bak.*
+*.backup.*
